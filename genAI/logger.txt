@@ -1,0 +1,63 @@
+12-Oct-24 14:01:34 - ---------------------------
+12-Oct-24 14:01:34 - Data Ingestion
+12-Oct-24 14:02:49 - ---------------------------
+12-Oct-24 14:02:49 - Data Ingestion
+12-Oct-24 14:02:49 - Loading raw document: pdfs/Llama3 paper.pdf
+12-Oct-24 14:02:49 - Splitting text .....
+12-Oct-24 14:02:49 - Length of the PDF after chunking: 8
+12-Oct-24 14:02:49 - Loading raw document: pdfs/2404.07220v1.pdf
+12-Oct-24 14:02:49 - Splitting text .....
+12-Oct-24 14:02:49 - Length of the PDF after chunking: 28
+12-Oct-24 14:02:49 - Length of all documents after chunking: 36
+12-Oct-24 14:03:41 - PyTorch version 2.4.0 available.
+12-Oct-24 14:03:42 - Use pytorch device_name: mps
+12-Oct-24 14:03:42 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+12-Oct-24 14:03:53 - Initiating the Chroma DB vectorization step
+12-Oct-24 14:03:53 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+12-Oct-24 14:05:14 - Loading mistralai/Mistral-7B-Instruct-v0.2 model from HuggingFace.
+14-Oct-24 16:03:42 - ---------------------------
+14-Oct-24 16:03:42 - Data Ingestion
+14-Oct-24 16:03:42 - Loading raw document: pdfs/Llama3 paper.pdf
+14-Oct-24 16:03:42 - Splitting text .....
+14-Oct-24 16:03:42 - Length of the PDF after chunking: 8
+14-Oct-24 16:03:42 - Loading raw document: pdfs/2404.07220v1.pdf
+14-Oct-24 16:03:42 - Splitting text .....
+14-Oct-24 16:03:42 - Length of the PDF after chunking: 28
+14-Oct-24 16:03:42 - Length of all documents after chunking: 36
+14-Oct-24 16:03:50 - PyTorch version 2.4.0 available.
+14-Oct-24 16:03:50 - Use pytorch device_name: mps
+14-Oct-24 16:03:50 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+14-Oct-24 16:03:54 - Initiating the Chroma DB vectorization step
+14-Oct-24 16:03:54 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+14-Oct-24 16:28:32 - Loading mistralai/Mistral-7B-Instruct-v0.2 model from HuggingFace.
+14-Oct-24 16:29:36 - Loading mistralai/Mistral-7B-Instruct-v0.2 model from HuggingFace.
+16-Oct-24 19:05:25 - ---------------------------
+16-Oct-24 19:05:25 - Data Ingestion
+16-Oct-24 19:05:25 - Loading raw document: pdfs/Llama3 paper.pdf
+16-Oct-24 19:05:25 - Splitting text .....
+16-Oct-24 19:05:25 - Length of the PDF after chunking: 8
+16-Oct-24 19:05:25 - Loading raw document: pdfs/2404.07220v1.pdf
+16-Oct-24 19:05:25 - Splitting text .....
+16-Oct-24 19:05:25 - Length of the PDF after chunking: 28
+16-Oct-24 19:05:25 - Length of all documents after chunking: 36
+16-Oct-24 19:05:30 - PyTorch version 2.4.0 available.
+16-Oct-24 19:05:30 - Use pytorch device_name: mps
+16-Oct-24 19:05:30 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+16-Oct-24 19:05:34 - Initiating the Chroma DB vectorization step
+16-Oct-24 19:05:34 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+16-Oct-24 19:05:35 - Loading mistralai/Mistral-7B-Instruct-v0.2 model from HuggingFace.
+23-Oct-24 12:41:52 - ---------------------------
+23-Oct-24 12:41:52 - Data Ingestion
+23-Oct-24 12:41:52 - Loading raw document: pdfs/Llama3 paper.pdf
+23-Oct-24 12:41:52 - Splitting text .....
+23-Oct-24 12:41:52 - Length of the PDF after chunking: 8
+23-Oct-24 12:41:52 - Loading raw document: pdfs/2404.07220v1.pdf
+23-Oct-24 12:41:52 - Splitting text .....
+23-Oct-24 12:41:52 - Length of the PDF after chunking: 28
+23-Oct-24 12:41:52 - Length of all documents after chunking: 36
+23-Oct-24 12:41:58 - PyTorch version 2.4.0 available.
+23-Oct-24 12:41:58 - Use pytorch device_name: mps
+23-Oct-24 12:41:58 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+23-Oct-24 12:42:04 - Initiating the Chroma DB vectorization step
+23-Oct-24 12:42:04 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+23-Oct-24 12:42:21 - Loading mistralai/Mistral-7B-Instruct-v0.2 model from HuggingFace.
